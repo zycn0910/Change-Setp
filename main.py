@@ -121,9 +121,9 @@ class XiaomiSport():
 
 if __name__ == '__main__':
     # 手机号
-    phone = ""
+    phone = input("输入账号：")
     # 密码
-    password = ""
+    password = input("输入密码：")
     # 步数
-    step = ""
+    step = input("输入步数：")
     XiaomiSport().main(phone, password, step)
