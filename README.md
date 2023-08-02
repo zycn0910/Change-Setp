@@ -7,8 +7,7 @@
 ### 下载app
 小米官方应用商城下载 [Zeep Life（原小米运动APP）](https://app.mi.com/details?id=com.xiaomi.hm.health)
 
-App
-Store官方下载 [Zeep Life](https://apps.apple.com/cn/app/zepp-life-%E5%8E%9F%E5%B0%8F%E7%B1%B3%E8%BF%90%E5%8A%A8/id938688461)
+App Store官方下载 [Zeep Life](https://apps.apple.com/cn/app/zepp-life-%E5%8E%9F%E5%B0%8F%E7%B1%B3%E8%BF%90%E5%8A%A8/id938688461)
 
 ### 注册App账号
 
